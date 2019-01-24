@@ -1,0 +1,7 @@
+name: BuildParticles
+version: 1.0
+main: com.BNPL.BuildParticles.Main
+
+commands:
+  파티클:
+    description: ''
